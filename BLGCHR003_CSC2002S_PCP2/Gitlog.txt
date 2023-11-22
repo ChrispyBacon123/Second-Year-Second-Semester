@@ -1,0 +1,53 @@
+commit e4d0563608dbb92b77effc29b4e583b17ae5e41e
+Author: CrispyBacon <CrispyBacon@Chrimbussys-Pc.local>
+Date:   Sat Aug 26 13:40:35 2023 +0200
+
+    Couldn't implement Andre, but at least the assignment is finished ٩(｡•́‿•̀｡)۶
+
+commit d9d20e501501f70531fa3d4408dc77280cc58d02
+Author: CrispyBacon <CrispyBacon@Chrimbussys-Pc.local>
+Date:   Fri Aug 25 18:00:49 2023 +0200
+
+    Finally finished the main project, now time to try Andre
+
+commit d7d5bc9389a921199276f469e887116cbf3d1a89
+Author: CrispyBacon <CrispyBacon@Chrimbussys-Pc.local>
+Date:   Thu Aug 24 21:22:46 2023 +0200
+
+    fixed all buttons and labels... but now deadlock has started to happen (˃̣̣̥⌓˂̣̣̥)
+
+commit c0fda14f6a61c4340527e08b8580a01a0803dc7b
+Author: CrispyBacon <CrispyBacon@Chrimbussys-Pc.local>
+Date:   Wed Aug 23 15:58:49 2023 +0200
+
+    The pause and start buttons are working :D
+
+commit 4358118ca75eca087b5ea16a00d3a81299198cd8
+Author: CrispyBacon <CrispyBacon@Chrimbussys-Pc.local>
+Date:   Sat Aug 19 09:53:06 2023 +0200
+
+    Added a README file and modified the makefile
+
+commit ca01d3814a2cf3493b7fa7b2c3b2215eabd87ee7
+Author: CrispyBacon <CrispyBacon@Chrimbussys-Pc.local>
+Date:   Thu Aug 17 22:08:31 2023 +0200
+
+    Tried to fix my makefile... failed
+
+commit f376c4e4995a69fcd7c462f02ce901e7cea0ed6c
+Author: CrispyBacon <CrispyBacon@Chrimbussys-Pc.local>
+Date:   Thu Aug 17 11:11:14 2023 +0200
+
+    Made a make file and tried to fix the max counter variable
+
+commit bed527e217b92c660807b0532488e60703ad5e14
+Author: CrispyBacon <CrispyBacon@Chrimbussys-Pc.local>
+Date:   Thu Aug 17 10:44:26 2023 +0200
+
+    Messed around with the program and added helpful annotations
+
+commit 737ff0b7927005876bedcf3d4b27b154a7f0f221
+Author: CrispyBacon <CrispyBacon@Chrimbussys-Pc.local>
+Date:   Wed Aug 16 14:48:38 2023 +0200
+
+    Stared project (pls help me)
